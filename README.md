@@ -25,25 +25,6 @@
 
 ## `whoami` — About Me
 
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    string name = "Kshitiz Verma";
-    string role = "Aspiring Software Engineer";
-
-    string focus[] = {
-        "C++ & Data Structures",
-        "Full-Stack Development",
-        "Problem Solving",
-        "Building Real-World Projects"
-    };
-
-    cout << "Learn. Build. Debug. Repeat." << endl;
-    return 0;
-}
-```
 
 - 🎓 Engineering student exploring software development.
 - 💻 Practicing C++ and Data Structures & Algorithms.
@@ -118,22 +99,7 @@ int main() {
 - [ ] Learn backend development and database design
 - [ ] Create useful, well-documented GitHub projects
 
-</details>
 
-<details>
-<summary><b>📌 What Makes a Good Project?</b></summary>
-
-<br/>
-
-- A real problem to solve
-- Clean and readable code
-- A useful README with setup instructions
-- Screenshots or a live demo where possible
-- Regular improvements based on feedback
-
-</details>
-
----
 
 <div align="center">
 
