@@ -103,3 +103,7 @@ I'm an aspiring software engineer focused on strengthening my programming fundam
 
 
 </div>
+
+<p align="center">
+  <img src="https://count.getloli.com/@:kaihere14?theme=rule34" alt="kaihere14" />
+</p>
