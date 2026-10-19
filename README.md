@@ -26,13 +26,12 @@
 
 I'm an aspiring software engineer focused on strengthening my programming fundamentals, solving problems efficiently, and building practical software applications.
 
-- 💻 **Programming:** C++ and Java
-- 🧠 **Problem Solving:** Data Structures & Algorithms
-- 🌐 **Development:** Frontend, backend APIs, and databases
-- 🛠️ **Currently building:** Programming practice and practical projects
-- 🎯 **Goal:** Develop strong engineering fundamentals and contribute to real-world software projects.
+-  **Programming:** C++ and Java
+-  **Problem Solving:** Data Structures & Algorithms
+-  **Development:** Frontend, backend APIs, and databases
+-  **Currently building:** Programming practice and practical projects
+-  **Goal:** Develop strong engineering fundamentals and contribute to real-world software projects.
 
-I value clean code, consistent learning, and building projects that solve meaningful problems.
 
 ---
 
@@ -56,19 +55,7 @@ I value clean code, consistent learning, and building projects that solve meanin
 
 </div>
 
-### DSA — Data Structures & Algorithms
 
-A dedicated space for practicing programming concepts, implementing algorithms, and improving problem-solving skills.
-
-**Focus areas**
-- Data structures and their operations
-- Sorting and searching algorithms
-- Algorithmic thinking and complexity analysis
-- Consistent coding practice
-
-[Explore the DSA repository →](https://github.com/kshitiz0102/DSA)
-
----
 
 ## GitHub Overview
 
@@ -113,6 +100,6 @@ A dedicated space for practicing programming concepts, implementing algorithms, 
 
 <img src="https://komarev.com/ghpvc/?username=kshitiz0102&label=Profile%20Views&color=0891B2&style=flat" alt="Profile view counter"/>
 
-<sub>Designed with a focus on clarity, consistency, and continuous learning.</sub>
+
 
 </div>
