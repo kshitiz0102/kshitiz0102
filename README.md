@@ -88,17 +88,7 @@ A dedicated space for practicing programming concepts, implementing algorithms, 
 
 </div>
 
----
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitiz0102&bg_color=00000000&color=C9D1D9&line=22D3EE&point=38BDF8&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Graph of GitHub contribution activity over time"/>
-
-</div>
-
----
 
 ## Current Learning Roadmap
 
