@@ -105,5 +105,5 @@ I'm an aspiring software engineer focused on strengthening my programming fundam
 </div>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:kshitiz0102?theme=rule34" alt="kaihere14" />
+  <img src="https://count.getloli.com/@:kshitiz0102?theme=rule34" alt="kshitiz0102" />
 </p>
