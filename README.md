@@ -26,7 +26,7 @@
 
 I'm an aspiring software engineer focused on strengthening my programming fundamentals, solving problems efficiently, and building practical software applications.
 
--  **Programming:** C++ and Java
+-  **Programming:** C++,Python,java
 -  **Problem Solving:** Data Structures & Algorithms
 -  **Development:** Frontend, backend APIs, and databases
 -  **Currently building:** Programming practice and practical projects
@@ -79,10 +79,9 @@ I'm an aspiring software engineer focused on strengthening my programming fundam
 
 ## Current Learning Roadmap
 
-- [ ] Strengthen C++ fundamentals and object-oriented programming
 - [ ] Practice DSA and algorithmic problem-solving
+- [ ] Strengthen C++ fundamentals and object-oriented programming
 - [ ] Build and document practical software projects
-- [ ] Develop full-stack applications
 - [ ] Improve database design, API development, and Git workflows
 
 
